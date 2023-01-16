@@ -36,7 +36,7 @@ def echo(client: pyrogram.client.Client, message: pyrogram.types.messages_and_me
         return
 
     app.send_message(message.chat.id, '**Hi, I am Mdisk Video Downloader, you can watch Videos without MX Player.\n__Send me a link to Start...__**',reply_to_message_id=message.id,
-    reply_markup=InlineKeyboardMarkup([[ InlineKeyboardButton("🔥 𝗝𝗢𝗜𝗡 𝗖𝗛𝗔𝗡𝗡𝗟 🔥", url="https://t.me/DK_Area")]]))
+    reply_markup=InlineKeyboardMarkup([[ InlineKeyboardButton("🔥 ᴊᴏɪɴ ᴄʜᴀɴɴʟ 🔥", url="https://t.me/movie_a1")]]))
 
 
 # help command
