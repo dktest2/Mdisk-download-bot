@@ -1,1 +1,1 @@
-web: python3 main.py
+werkor: python3 main.py
