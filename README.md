@@ -1,7 +1,7 @@
 # Mdisk Downloader Bot
 
 *A Telegram MDisk Video Downloader Bot, You can watch downloaded Videos without MX player (bypass mdisk requirements)*
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
 ---
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/cmSDoq?referralCode=2AeM3i)
 ## Variables
