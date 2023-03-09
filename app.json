@@ -1,0 +1,36 @@
+{
+  "name": "Mdisk download",
+  "description": "file sharing bot store posts and it can access by special links",
+  "keywords": [
+    "telegram",
+    "Mdisk",
+    "Download"
+  ],
+  "repository": "https://github.com/dktest2/Mdisk-download-bot",
+  "logo": "https://ibb.co/FgPVtzw",
+  "env": {
+    "TOKEN": {
+      "description": "Your Bot token, Get it from @Botfather",
+      "value": ""
+    
+    "ID":{
+      "description": "your app id, take it from my.telegram.org",
+      "value": ""
+    
+    "HASH":{
+      "description": "your api hash, take it from my.telegram.org",
+      "value": ""
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ],
+  "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "eco"
+    }
+  }
+}
+
