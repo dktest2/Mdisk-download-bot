@@ -11,7 +11,8 @@
     "Pillow",
   ],
   "repository": "https://github.com/dktest2/Mdisk-download-bot",
-  "logo": "https://ibb.co/FgPVtzw",
+  "website": "https://telegram.dog/movie_a1",
+  "success_url": "https://github.com/dktest2",
   "env": {
     "TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
