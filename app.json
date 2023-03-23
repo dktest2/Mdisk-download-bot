@@ -16,17 +16,17 @@
   "env": {
     "TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
-      "required": True,
+      "required": false,
       "value": ""
     
     "ID":{
       "description": "your app id, take it from my.telegram.org",
-      "required": True,
+      "required": false,
       "value": ""
     
     "HASH":{
       "description": "your api hash, take it from my.telegram.org",
-      "required": True,
+      "required": fals,
       "value": ""
   },
   "buildpacks": [
