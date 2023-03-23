@@ -4,7 +4,11 @@
   "keywords": [
     "telegram",
     "Mdisk",
-    "Download"
+    "Download",
+    "pyrogram",
+    "tgcrypto",
+    "requests",
+    "Pillow",
   ],
   "repository": "https://github.com/dktest2/Mdisk-download-bot",
   "logo": "https://ibb.co/FgPVtzw",
